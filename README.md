@@ -31,7 +31,7 @@ The following **additional** features are NOT YET implemented:
 
 Here's Todo walkthrough:
 
-<img src='https://drive.google.com/drive/folders/0B647qO1uSNe7ajluYTY2VlVPeEk' title='Todo Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://drive.google.com/file/d/0B647qO1uSNe7N1I3T3RxVUpCeEk/view?usp=sharing' title='Todo Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
