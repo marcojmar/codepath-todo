@@ -29,7 +29,7 @@ The following **additional** features are NOT YET implemented:
 
 ## Video Walkthrough 
 
-Here's a walkthrough of implemented user stories:
+Here's Todo walkthrough:
 
 <img src='https://drive.google.com/drive/folders/0B647qO1uSNe7ajluYTY2VlVPeEk' title='Todo Walkthrough' width='' alt='Video Walkthrough' />
 
